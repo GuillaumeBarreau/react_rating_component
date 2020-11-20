@@ -1,0 +1,4 @@
+build
+coverage
+src/reportWebVitals.js
+*.spec.js
