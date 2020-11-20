@@ -1,0 +1,11 @@
+.select {
+  min-width: 10rem;
+  align-self: center;
+  cursor: pointer;
+  border-radius: 0.5rem;
+  background-color: #dad7d7;
+  border: 0;
+  padding: 1rem;
+  font-size: 1.25rem;
+  font-weight: 200;
+}

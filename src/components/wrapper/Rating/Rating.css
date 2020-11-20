@@ -1,0 +1,17 @@
+.rating-star-icon {
+  display: flex;
+  align-items: center;
+}
+
+.rating-star-icon > * {
+  margin-right: 0.25rem;
+}
+
+.rating-star-progress {
+  display: flex;
+  align-items: center;
+}
+
+.rating-star-progress > * {
+  margin-right: 1rem;
+}

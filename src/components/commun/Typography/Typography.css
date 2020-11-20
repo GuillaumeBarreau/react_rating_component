@@ -1,0 +1,20 @@
+.typography {
+  font-size: 1.25rem;
+  font-weight: 200;
+}
+
+.typography--large {
+  font-size: 2rem;
+}
+
+.typography--medium {
+  font-size: 1.5rem;
+}
+
+.typography--small {
+  font-size: 1rem;
+}
+
+.typography--bold {
+  font-weight: 600;
+}

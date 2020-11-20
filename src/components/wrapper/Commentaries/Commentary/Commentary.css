@@ -1,0 +1,14 @@
+.commentary {
+  background: #f6f6f6;
+  border-radius: 8px;
+  margin-top: 1rem;
+  padding: 1rem;
+}
+
+.commentary-info-grade {
+  display: flex;
+  align-items: center;
+}
+.commentary-info-grade > * {
+  margin-right: 0.5rem;
+}
