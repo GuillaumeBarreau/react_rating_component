@@ -9,14 +9,12 @@ export const HomePage = () => {
   const [usersDataFilter, setUsersDataFilter] = useState(usersData);
 
   const handleChangeFilter = (selectOption) => {
-
     if (!parseInt(selectOption)) {
       setUsersDataFilter(usersData);
       return;
     }
 
     const newFilter = usersData.filter((user) => {
-      console.log('user.grade', typeof user.grade);
       return user.grade === parseInt(selectOption);
     });
 
